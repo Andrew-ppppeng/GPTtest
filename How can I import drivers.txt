@@ -1,0 +1,14 @@
+How can I import drivers?
+---
+
+Command allows you to quickly import all of your drivers from an integrated ELD and add them as drivers in the Command system
+
+Once you have integrated your ELD, Start by clicking on the driver module on the left-hand side.
+
+On the drivers page you will see a button in the top right corner called "Import from ELD".
+
+Next you will need to click on the add drivers button shown in the image below.
+
+The last step is to select the drivers you want to import and click the "Invite from ELD" button.
+
+This will send an invite to the selected drivers and they will not be added to the Command system.

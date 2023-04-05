@@ -1,0 +1,14 @@
+How can I import assets?
+---
+
+Command allows you to import all of your assets from an integrated ELD. 
+
+Start by clicking on the "Assets" dropdown and select the type of asset you would like to import ("Trucks" or "Trailers").
+
+Both of these pages will contain a button at the top right called "Import from ELD". Click this to see all available assets to import from your integrated ELD.
+
+On the next page you will need to click the button that shows the number of available assets that still need to be connected. 
+
+The last step is to select the assets you would like to add to the system and then click "Connect". 
+
+All of the selected assets will be added for use in the Command for things like, assigning trucks to loads, tracking available assets, and even maintenance.
